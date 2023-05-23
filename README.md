@@ -1,7 +1,7 @@
 ### 💫 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀:
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
+![9xnull0 GitHub stats](https://github-readme-stats.vercel.app/api?username=0xnull0&show_icons=true&bg_color=00000000)
 
 ### ⚡ 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀 𝗜 𝘂𝘀𝗲 𝗶𝗻 𝗺𝘆 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀 𝗮𝗻𝗱 𝗴𝘂𝗶𝗱𝗲𝘀:
 <div style="display: inline_block"><br>
