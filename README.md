@@ -15,5 +15,5 @@
 
 If you're interested in collaborating on interesting projects or just want to chat about technology, feel free to reach out!
 
-- Email: [0xnull0@gmail.com](mailto:0xnull0@gmail.com)
+- Email: [qSeekDev@gmail.com](mailto:qSeekDev@gmail.co)
 - Discord: qSeek#7777
