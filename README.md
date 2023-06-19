@@ -1,6 +1,6 @@
-![9xnull0 GitHub stats](https://github-readme-stats.vercel.app/api?username=0xnull0&show_icons=true&bg_color=00000000)
+My stats:
 
-Welcome to my profile!
+![9xnull0 GitHub stats](https://github-readme-stats.vercel.app/api?username=0xnull0&show_icons=true&bg_color=00000000)
 
 ## Technical Skills
 
