@@ -1,5 +1,3 @@
-# ¡Hola! Soy 0xnull 👋
-
 ![Profile Banner](https://wallpaperaccess.com/full/1338353.jpg)
 
 Soy un apasionado desarrollador Full Stack con experiencia en una amplia gama de tecnologías. Me encanta enfrentar desafíos y construir soluciones creativas e innovadoras. Siempre estoy buscando oportunidades para aprender y mejorar mis habilidades.
