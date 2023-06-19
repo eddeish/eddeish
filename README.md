@@ -13,20 +13,6 @@ Soy un apasionado desarrollador Full Stack con experiencia en una amplia gama de
 - **Control de Versiones:** Git, GitHub
 - **Herramientas:** Visual Studio Code, Postman, Docker
 
-## Proyectos Destacados
-
-### Proyecto 1: Sistema de Gestión de Tareas
-
-Descripción breve del proyecto y las tecnologías utilizadas.
-
-### Proyecto 2: Aplicación de Red Social
-
-Descripción breve del proyecto y las tecnologías utilizadas.
-
-### Proyecto 3: Tienda en Línea
-
-Descripción breve del proyecto y las tecnologías utilizadas.
-
 ## Contribuciones Open Source
 
 - [Proyecto A](https://github.com/proyecto-a) - Contribución realizada y descripción breve.
