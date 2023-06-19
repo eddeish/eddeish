@@ -15,6 +15,5 @@
 
 If you're interested in collaborating on interesting projects or just want to chat about technology, feel free to reach out!
 
-- Email: [email@example.com](mailto:email@example.com)
-- LinkedIn: [linkedin.com/in/0xnull](https://www.linkedin.com/in/0xnull)
-- Twitter: [@0xnull](https://twitter.com/0xnull)
+- Email: [0xnull0@gmail.com](mailto:0xnull0@gmail.com)
+- Discord: heisykev#7777
