@@ -16,4 +16,4 @@
 If you're interested in collaborating on interesting projects or just want to chat about technology, feel free to reach out!
 
 - Email: [0xnull0@gmail.com](mailto:0xnull0@gmail.com)
-- Discord: mds0012#7651
+- Discord: heisykev#7777
