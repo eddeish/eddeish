@@ -1,8 +1,8 @@
-## My Stats:
+## 🚀・My Stats:
 
 ![9xnull0 GitHub stats](https://github-readme-stats.vercel.app/api?username=0xnull0&show_icons=true&bg_color=00000000)
 
-## Technical Skills
+## 📚・Technical Skills
 
 - **Programming Languages:** JavaScript, Python, Ruby
 - **Frontend:** HTML, CSS, React, Angular
@@ -11,7 +11,7 @@
 - **Version Control:** Git, GitHub
 - **Tools:** Visual Studio Code, Postman, Docker
 
-## Contact
+## ☎️・Contact
 
 If you're interested in collaborating on interesting projects or just want to chat about technology, feel free to reach out!
 
