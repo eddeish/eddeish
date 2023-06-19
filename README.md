@@ -1,4 +1,4 @@
-![Profile Banner](https://wallpaperaccess.com/full/1338353.jpg)
+![9xnull0 GitHub stats](https://github-readme-stats.vercel.app/api?username=0xnull0&show_icons=true&bg_color=00000000)
 
 Welcome to my profile!
 
@@ -18,5 +18,3 @@ If you're interested in collaborating on interesting projects or just want to ch
 - Email: [email@example.com](mailto:email@example.com)
 - LinkedIn: [linkedin.com/in/0xnull](https://www.linkedin.com/in/0xnull)
 - Twitter: [@0xnull](https://twitter.com/0xnull)
-
-![9xnull0 GitHub stats](https://github-readme-stats.vercel.app/api?username=0xnull0&show_icons=true&bg_color=00000000)
