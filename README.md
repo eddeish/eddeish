@@ -4,7 +4,7 @@
 
 ## 📚・Technical Skills
 
-- **Programming Languages:** JavaScript, Python, Ruby
+- **Programming Languages:** JavaScript, Java, Python, C++/C, LUA, Ruby
 - **Frontend:** HTML, CSS, React, Angular
 - **Backend:** Node.js, Express, Ruby on Rails
 - **Databases:** MongoDB, MySQL, PostgreSQL
