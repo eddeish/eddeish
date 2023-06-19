@@ -1,26 +1,21 @@
 ![Profile Banner](https://wallpaperaccess.com/full/1338353.jpg)
 
-Soy un apasionado desarrollador Full Stack con experiencia en una amplia gama de tecnologías. Me encanta enfrentar desafíos y construir soluciones creativas e innovadoras. Siempre estoy buscando oportunidades para aprender y mejorar mis habilidades.
+Welcome to my profile!
 
-## Habilidades Técnicas
+## Technical Skills
 
-- **Lenguajes de Programación:** JavaScript, Python, Ruby
+- **Programming Languages:** JavaScript, Python, Ruby
 - **Frontend:** HTML, CSS, React, Angular
 - **Backend:** Node.js, Express, Ruby on Rails
-- **Bases de Datos:** MongoDB, MySQL, PostgreSQL
-- **Control de Versiones:** Git, GitHub
-- **Herramientas:** Visual Studio Code, Postman, Docker
+- **Databases:** MongoDB, MySQL, PostgreSQL
+- **Version Control:** Git, GitHub
+- **Tools:** Visual Studio Code, Postman, Docker
 
-## Contribuciones Open Source
+## Contact
 
-- [Proyecto A](https://github.com/proyecto-a) - Contribución realizada y descripción breve.
-- [Proyecto B](https://github.com/proyecto-b) - Contribución realizada y descripción breve.
+If you're interested in collaborating on interesting projects or just want to chat about technology, feel free to reach out!
 
-## Contacto
-
-Si estás interesado en colaborar en proyectos interesantes o simplemente quieres charlar sobre tecnología, ¡no dudes en contactarme!
-
-- Correo Electrónico: [correo@ejemplo.com](mailto:correo@ejemplo.com)
+- Email: [email@example.com](mailto:email@example.com)
 - LinkedIn: [linkedin.com/in/0xnull](https://www.linkedin.com/in/0xnull)
 - Twitter: [@0xnull](https://twitter.com/0xnull)
 
